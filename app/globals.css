@@ -1,0 +1,33 @@
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+    :root {
+      --bg: 210 36% 96%;
+      --text: 210 15% 25%;
+      --accent: 30 90% 55%;
+      --primary: 200 90% 50%;
+      --surface: 0 0% 100%;
+      --secondary-text: 210 15% 50%;
+
+      --radius-lg: 12px;
+      --radius-md: 8px;
+      --radius-sm: 4px;
+      --radius-xl: 16px;
+
+      --shadow-md: 0 4px 12px 0 hsla(0, 0%, 0%, 0.08);
+      --shadow-sm: 0 2px 4px 0 hsla(0, 0%, 0%, 0.05);
+
+      --spacing-lg: 16px;
+      --spacing-md: 12px;
+      --spacing-sm: 8px;
+      --spacing-xl: 24px;
+      --spacing-xs: 4px;
+    }
+
+    @layer base {
+      body {
+        @apply bg-bg text-text;
+      }
+    }
+  
