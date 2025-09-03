@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "FanFlow is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://1308284b-c1a7-47bf-98ef-3da1ca7b2e37.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app",
+    "splashImageUrl": "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app/image.png",
     "tagline": "FanFlow",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app/screenshot.png",
+      "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://1308284b-c1a7-47bf-98ef-3da1ca7b2e37.vistara.dev/api/webhook"
+    "webhookUrl": "https://1308284bc1a747bf98ef3da1ca7b2e37-d7qz-5n1pjpfp0-vistara.vercel.app/api/webhook"
   }
 }
